@@ -1,6 +1,3 @@
-/*const express = require('express')
-const bodyparser = require('body-parser')
-const crypto = require('crypto')*/
 import express from 'express'
 import bodyparser from 'body-parser'
 import crypto from 'crypto'
